@@ -42,5 +42,5 @@ VALUES (DEFAULT, 'article', 'non-food', '1')
 , (DEFAULT, 'article', 'non-food', '6');"
 
 # connect
-psql -d docker_showcase
+# psql -d docker_showcase
 
